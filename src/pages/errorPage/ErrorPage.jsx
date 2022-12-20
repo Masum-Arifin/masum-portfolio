@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import feelingblue from '../../assets/images/undraw_feeling_blue_-4-b7q.svg'
+// import feelingblue from '../../assets/images/undraw_feeling_blue_-4-b7q.svg'
 import Fade from 'react-reveal/Fade'
 
 import './errorpage.scss'
@@ -28,7 +28,7 @@ const ErrorPage = () => {
         </Fade>
       </div>
       <Fade right>
-        <img className="errorPageSvg" src={feelingblue} alt="feeling bule" />
+        {/* <img className="errorPageSvg" src={feelingblue} alt="feeling bule" /> */}
       </Fade>
     </div>
   )
