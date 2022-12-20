@@ -171,7 +171,7 @@ const Contact = React.memo(() => {
                   ref={emailRef}
                   type="email"
                   placeholder="Email"
-                  // name="email"
+                  name="email"
                   value={validInpt.email}
                   onChange={handleChange}
                 />
