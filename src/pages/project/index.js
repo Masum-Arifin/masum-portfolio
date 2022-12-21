@@ -13,17 +13,17 @@ import {
 export const projects = [
   {
     id: 1,
-    name: 'Wordle Clone',
+    name: 'LFZero',
     desc:
-      'A game that gives you 5 attempts to guess the correct word of the day',
-    stack: 'HTML CSS JAVASCRIPT',
+      'Learn from Zero is an Online Educational Platform Web application. Two types of users on this site such as students & Instructors. ',
+    stack: 'HTML CSS React.js',
     gitHubUrl: {
       icon: <GrGithub />,
-      url: 'https://github.com/Almarex-Web-Dev/Wordle-clone',
+      url: 'https://github.com/rezainiet/lfzero-client',
     },
     website: {
       icon: <TbWorld />,
-      url: 'https://worlde-cloned.netlify.app/',
+      url: 'https://learn-from-zero.vercel.app/',
     },
     imgUrl: wordleClone,
   },
