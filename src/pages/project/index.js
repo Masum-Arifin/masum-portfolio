@@ -34,7 +34,7 @@ export const projects = [
     stack: 'React JS',
     gitHubUrl: {
       icon: <GrGithub />,
-      url: 'https://github.com/Almarex-Web-Dev/Restaurant-Website-project',
+      url: 'https://github.com/Masum-Arifin/GR-restaurant-website',
     },
     website: {
       icon: <TbWorld />,
