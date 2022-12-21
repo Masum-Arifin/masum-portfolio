@@ -3,7 +3,7 @@ import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 
 const Map = () => {
   return (
-    <MapContainer center={[6.5244, 3.3792]} zoom={15} scrollWheelZoom={false}>
+    <MapContainer center={[23.764, 90.3893]} zoom={15} scrollWheelZoom={false}>
       <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
       <Marker position={[51.505, -0.09]}>
         <Popup>Tadaa ! Here's where i live. You are free to pay a visit</Popup>
