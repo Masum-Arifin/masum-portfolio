@@ -1,7 +1,7 @@
 import React from 'react'
 
 // react icons
-import { FiGrid, FiLinkedin, FiYoutube, FiFigma } from 'react-icons/fi'
+import { FiGrid, FiLinkedin, FiFigma } from 'react-icons/fi'
 import { ImBlogger } from 'react-icons/im'
 import { VscProject } from 'react-icons/vsc'
 import {
@@ -74,10 +74,7 @@ const socialIcons = [
     icon: <GrGithub className="icon switch__color" />,
     url: 'https://github.com/Almarex-Web-Dev ',
   },
-  {
-    icon: <FiYoutube className="icon switch__color" />,
-    url: 'https://www.youtube.com/c/AlmarexWebDev',
-  },
+  
   {
     icon: <GrTwitter className="icon switch__color" />,
     url: 'https://twitter.com/almarexwebdev',
