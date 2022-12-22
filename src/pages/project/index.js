@@ -25,7 +25,6 @@ export const projects = [
       icon: <TbWorld />,
       url: 'https://learn-from-zero.vercel.app/',
     },
-    imgUrl: wordleClone,
   },
   {
     id: 2,
