@@ -72,20 +72,20 @@ const sideBarMenu = [
 const socialIcons = [
   {
     icon: <GrGithub className="icon switch__color" />,
-    url: 'https://github.com/Almarex-Web-Dev ',
+    url: 'https://github.com/Masum-Arifin',
   },
   
-  {
-    icon: <GrTwitter className="icon switch__color" />,
-    url: 'https://twitter.com/almarexwebdev',
-  },
-  {
-    icon: <GrInstagram className="icon switch__color" />,
-    url: 'https://www.instagram.com/almarexwebdev1/',
-  },
+  // {
+  //   icon: <GrTwitter className="icon switch__color" />,
+  //   url: 'https://twitter.com/almarexwebdev',
+  // },
+  // {
+  //   icon: <GrInstagram className="icon switch__color" />,
+  //   url: 'https://www.instagram.com/almarexwebdev1/',
+  // },
   {
     icon: <FiLinkedin className="icon switch__color" />,
-    url: 'https://www.linkedin.com/in/almarex/',
+    url: 'https://www.linkedin.com/in/abdullah-al-masumbd/',
   },
 ]
 // programming lanuages (spanText), icons and url
